@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(0, 255, 81);
+  /* Shriftin razmeri */
+  font-size: 42;
+  font-weight: 500;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Shriftin razmeri 16px */
+/* font:normal 16px' Geneva, Verdana, sans-serif'; */
+
+
+.avatar {
+  width: 200px;
+  border-radius: 120px;
+  /* surata sohle bermek un uln. */
+  box-shadow: 4px 4px 14px rgb(red, green, blue);
+}
